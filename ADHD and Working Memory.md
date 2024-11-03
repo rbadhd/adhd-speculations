@@ -5,9 +5,7 @@ Robert B - Nov 2024
 
 I have often pondered how working memory limitations might account for various inattentive ADHD symptoms. Recently, while reading a most enlightening (and lengthy) tome - "The Matter with Things" by Ian McGilchrist - I encountered this image...
 
-
-![[RH-WM-Data.png]]
-
+![hemisphere-test](images/RH-WM-Data.png)
 
 My embellished summary here is that the information held in working memory of our right hemisphere (RH) is the single, full, broad-brush view of what is going on at any moment, including the "interoceptive" feelings from our body and whatever plans and recollections may have appeared in our mental world. This is a low-resolution landscape of interconnected physical, social and temporal features. Critically it includes our emotional state along with previously felt emotions about the various features. Although there will be some point of focus in this landscape where the left  hemisphere (LH) has added a patch of fine detail, **the full interconnected changing picture is held by the right hemisphere in working memory (WM).**
 
@@ -15,12 +13,11 @@ My embellished summary here is that the information held in working memory of ou
 
 Using the 'H' made of '2's image as a reference, **if this RH is limited by some less-than-average WM capacity**, then you might get situations like this arising in a typical day...
 
-![[RH-WM-Numbers.png]]
-
+![wm-limits](images/RH-WM-Numbers.png)
 
 T**he items outside WM have not been forgotten, but have been *forgotten about***. They will generally be present in episodic memory, **but they will only ever come to mind again if a suitable cue arises, which is generally down to luck**...
 
-![[RH-WM-EpisodicMemory.png]]
+![forget vs forget about](images/RH-WM-EpisodicMemory.png)
 
 ### Effect on Dopamine
 
@@ -28,11 +25,11 @@ A second-order effect ***may be*** to limit the capabilities of our dopamine-bas
 
 ***This is highly speculative***, but **it may be that for an action to gain credit assignment for some outcome, there must be some "strong-enough" chain of causation held in a *single* RH WM view**. In the illustration below, the difficult steps do not have any dopaminergic motivational boost because the brain is never aware that they have anything to do with some later benefit. This would mean that willpower is required throughout!
 
-![[RH-WM-Dopamine.png]]
+![credit assignment](images/RH-WM-Dopamine.png)
 
 One more detailed example is starting a task but then moving on to something else...
 
-![[RH-WM-Starting.png]]
+![starting tasks](images/RH-WM-Starting.png)
 
 There will be other factors, such as the simple fact of starting a task reduces its perceived urgency relative to other tasks that have not even been started. This can result in a lot of task switching.
 
